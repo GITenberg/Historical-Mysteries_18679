@@ -1,0 +1,38 @@
+_repo: Historical-Mysteries_18679
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: 'The case of Elizabeth Canning; The murder of Escovedo; The Campden mystery;
+  The case of Allan Breck; The Cardinal''s necklace; The mystery of Kaspar Hauser:
+  the child of Europe; The Gowrie conspiracy; The strange case of Daniel Dunglas Home;
+  The case of Captain Green; Queen Oglethorpe; The chevalier d''Éon; Saint-Germain
+  the deathless; The mystery of the kirks; The end of Jeanne de la Motte.'
+gutenberg_issued: '2006-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History'
+- !lcc 'D'
+tableOfContents: The case of Elizabeth Canning -- The murder of Escovedo -- The Campden
+  mystery -- The case of Allan Breck -- The cardinal's necklace -- The mystery of
+  Kaspar Hauser, the child of Europe -- The Gowrie conspiracy -- The strange case
+  of Daniel Dunglas Home -- The case of Captain Green -- Queen Oglethorpe (in collaboration
+  with Miss Alice Shield) -- The Chevalier d'Éon -- Saint-Germain the deathless --
+  The mystery of the kirks -- The end of Jeanne de la Motte.
+title: Historical Mysteries
+url: http://www.gutenberg.org/ebooks/18679
